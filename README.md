@@ -10,6 +10,8 @@
 
 __Objetivos Específicos__
 
+* Realizar cálculos de voltaje, corriente, resistencia, inductancia en Circuitos con acoplamientos
+* 
 
 
 2. Marco Teórico
@@ -97,6 +99,8 @@ __23. Para la figura 24-48, EA=120 V∠-10°. Encuentre la corriente de línea c
 
 5. Conclusiones 
 
+* Al momento de realizar cálculos en circuitos con acoplamientos se tiene en cuenta el tipo de acoplamiento, ya que dependiendo de esto se usar unas otras fórmulas, además se debe tener en cuenta el flujo de la corriente y el voltaje, ya que es crucial al momento de calcular los valores.
+* 
 
 6. Bibliografía
 
