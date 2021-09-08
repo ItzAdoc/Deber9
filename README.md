@@ -218,66 +218,64 @@ __25. Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea
 __27. Para el circuito de la figura 24-49, suponga que Zlinea de 0,15Ω + 0,25Ω y Vab=600v ∟30°. Determinar EAB.__
 
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/27.jpg)
+
+
+__29. Los mismo datos que el problema 28 excepto que el voltaje de ase en la carga Δ es Vab=480 v∟30°. Encuentre el voltaje de E_AB, magnitud y ángulo.__
+
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/29.jpg)
 
 
 
-
-__29. Los mismo datos que el problema 28 excepto que el voltaje de ase en la carga Δ es V_ab=480 v∟〖30〗^°. Encuentre el voltaje de E_AB, magnitud y ángulo.__
-
+__31. Para la figura 24-21(a),  Zy=15Ω+j20Ω , ZΔ=4Ω-j12Ω, ZLinea=0,1Ω-j0,1Ω e Iab=40A∟73,13°. Encuentre el voltaje de ase Y Van, magnitud y ángulo.__
 
 
-
-
-
-
-__31. Para la figura 24-21(a),  Z_y=15Ω+j20Ω , Z_Δ=4Ω-j12Ω, Z_Linea=0,1Ω-j0,1Ω e I_ab=40A∟ 〖73,13〗^°. Encuentre el voltaje de ase Y V_an, magnitud y ángulo.__
-
-
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/31.jpg)
 
 
 __33. Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN = 120 V.__
 
 
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/33.jpg)
 
 
 __35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL = 207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.__
 
 
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/35.jpg)
 
 
 __37. Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36.__
 
 
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/37.jpg)
+
+
+
+__39. Para la figura 24-53, si Vab=600 v, determine la potencia total, la potencia relativa total, la potencia aparente real y el factor de potencia.__
+
+
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/39.jpg)
 
 
 
 
-__39. Para la figura 24-53, si V_ab=600 v, determine la potencia total, la potencia relativa total, la potencia aparente real y el factor de potencia.__
+__41. Para la figura 24-19, si Vab=480 v, determine la potencia total, la potencia relativa total, la potencia aparente real y el factor de potencia.__
 
 
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/41.jpg)
 
 
 
-
-
-__41. Para la figura 24-19, si V_ab=480 v, determine la potencia total, la potencia relativa total, la potencia aparente real y el factor de potencia.__
-
+__43. Vab=280 v, para una carga balanceada Y, PT=1200w y Q_T=750 VAR/(ind). Seleccione Van como referencia y determina Ia.__
 
 
 
-
-
-
-__43. V_ab=280 v, para una carga balanceada Y, P_T=1200w y Q_T=750 VAR/(ind). Seleccione V_an como referencia y determina I_a.__
-
-
-
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/43.jpg)
 
 
 
@@ -285,7 +283,7 @@ __45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene
 
 
 
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/45.jpg)
 
 
 
@@ -294,7 +292,7 @@ __47. Para la figura 24-47, el voltaje de ase del generador es de 120 volts.__
 
 
 
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/47.jpg)
 
 
 
@@ -304,7 +302,7 @@ __49. Para el circuito de la figura 24-56. Vab=280 v∟30°.__
 
 
 
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/49.jpg)
 
 
 
@@ -315,7 +313,7 @@ __51. Considere el circuito de la figura 24-56.__
 
 
 
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/51.jpg)
 
 
 
@@ -325,7 +323,7 @@ __53. Para la figura 24-58. R_ab=60Ω, Z_bc=80Ω+60Ω. Calcule:__
 
 
 
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/53.jpg)
 
 
 __55. Para la figura 24-59. Calcule lo siguiente:__
@@ -334,7 +332,7 @@ __55. Para la figura 24-59. Calcule lo siguiente:__
 
 
 
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/55.jpg)
 
 
 
@@ -342,7 +340,7 @@ __57. A partir del problema 56. Ia= 1,94 A∟-0,737°, Ib= 4 A∟-117,7° e Ic= 
 
 
 
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/57.jpg)
 
 
 
