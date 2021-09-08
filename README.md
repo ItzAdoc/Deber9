@@ -10,6 +10,7 @@
 
 __Objetivos Específicos__
 
+* Comprender cuando aumenta o disminuye el voltaje en los transformadores.
 * Realizar cálculos de voltaje, corriente, resistencia, inductancia en Circuitos con acoplamientos
 * 
 
@@ -23,6 +24,42 @@ __Objetivos Específicos__
 
 __CÁPITULO 23__
 
+__1.	Para los transformadores de la ﬁgura 23-71, dibuje las formas de onda que faltan.__
+
+__3.	Un transformador ideal tiene Np = 1000 vueltas y Ns = 4000 vueltas.__
+
+__5.	Para la ﬁgura 23-72, determine las expresiones para v1, v2 y v3.__
+
+__7. Si, para la ﬁgura 23-73, Eg = 240 V ∠ 0°, a = 0.5, e Ig = 2A ∠ 20°, determine lo siguiente:__
+
+__9.	Si, para la ﬁgura 23-73, a =4, Ig = 4A ∠ 30° y ZL = 6Ω - j8Ω, determine lo siguiente:__
+
+__11.	Para cada circuito de la ﬁgura 23-74, determine Zp.__
+
+__13.	Para la ﬁgura 23-74 (a), ¿Qué relación de vueltas se requiere para hacer que Zp = (62.5 - j125) Ω?__
+
+__15. Para cada circuito de la ﬁgura 23-75, determine ZT.__
+
+__17.	Un transformador tiene una especiﬁcación de voltaje primario de 7.2 kV, a = 0.2, y una especiﬁcación de corriente en el secundario de 3 A. ¿Cuál es la especiﬁcación de kVA?__
+
+__19.	El transformador de la ﬁgura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de 2400 W con Fp = 1.0, determine:__
+
+
+__21.	Un ampliﬁcador con un equivalente de Thévenin de 10V y RTh de 25Ω maneja una bocina de 4Ω a través de un transformador con una relación de vueltas de a = 5 ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación devueltas produce 1 W?__
+
+
+__23.	Para la ﬁgura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20Ω ∠ 50°, Z3 = (12 + j4) Ω y Eg = 120 V ∠0°. Encuentre cada corriente de carga y la corriente del generador.__
+
+
+__25.	Para la ﬁgura 23-77, Eg = 1220 V ∠0°.__
+
+
+__27.	Un transformador que entrega Psal = 48 kW tiene un pérdida en el núcleo de 280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eﬁciencia a esta carga?__
+
+
+__29.	Para la ﬁgura 23-78,__
+
+__31.	Para un conjunto de bobinas acopladas, L1 = 2H, M = 0.8H y el coeﬁciente de acoplamiento es de 0.6. Determine L2.__
 
 __35. Para la figura 23-80, determine LT.__
 
@@ -121,7 +158,8 @@ __23. Para la figura 24-49, Van=120 V∠0°. Dibuje el equivalente de una sola f
 5. Conclusiones 
 
 * Al momento de realizar cálculos en circuitos con acoplamientos se tiene en cuenta el tipo de acoplamiento, ya que dependiendo de esto se usar unas otras fórmulas, además se debe tener en cuenta el flujo de la corriente y el voltaje, ya que es crucial al momento de calcular los valores.
-* 
+
+* Gracias a los transformadores se ha podido resolver una gran cantidad de problemas eléctricos a lo largo de la historia, y de no ser por estos, actualmente dichos problemas seguirían siendo imposibles de resolver.
 
 6. Bibliografía
 
