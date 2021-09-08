@@ -217,9 +217,7 @@ __23. Para la figura 24-49, Van=120 V∠0°. Dibuje el equivalente de una sola f
 
 4. Video
 
-
-
-
+* https://youtu.be/mTEqectjS1o
 
 5. Conclusiones 
 
