@@ -212,7 +212,7 @@ __23. Para la figura 24-49, Van=120 V∠0°. Dibuje el equivalente de una sola f
 __25. Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0,15Ω + 0,25Ω y EAN = 120 v ∟0. Convierta la carga Δ en Y y use el equivalente de una fase para encontrar las corrientes de línea.__
 
 
-
+![](https://github.com/ItzAdoc/ImaD9/blob/main/25.jpg)
 
 
 __27. Para el circuito de la figura 24-49, suponga que Zlinea de 0,15Ω + 0,25Ω y Vab=600v ∟30°. Determinar EAB.__
