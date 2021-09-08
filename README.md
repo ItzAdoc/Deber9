@@ -17,6 +17,7 @@ __Objetivos Específicos__
 
 2. Marco Teórico
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/MT23.jpeg)
 
 3. Resolución de los ejercicios
 
@@ -26,40 +27,103 @@ __CÁPITULO 23__
 
 __1.	Para los transformadores de la ﬁgura 23-71, dibuje las formas de onda que faltan.__
 
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej1.jpg)
+
 __3.	Un transformador ideal tiene Np = 1000 vueltas y Ns = 4000 vueltas.__
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej3.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej3.2.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej3.3.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej3.4.jpg)
 
 __5.	Para la ﬁgura 23-72, determine las expresiones para v1, v2 y v3.__
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej5.jpg)
+
 __7. Si, para la ﬁgura 23-73, Eg = 240 V ∠ 0°, a = 0.5, e Ig = 2A ∠ 20°, determine lo siguiente:__
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej7.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej7.2.jpg)
 
 __9.	Si, para la ﬁgura 23-73, a =4, Ig = 4A ∠ 30° y ZL = 6Ω - j8Ω, determine lo siguiente:__
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej9.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej9.2.jpg)
+
 __11.	Para cada circuito de la ﬁgura 23-74, determine Zp.__
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej11.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej11.2.jpg)
 
 __13.	Para la ﬁgura 23-74 (a), ¿Qué relación de vueltas se requiere para hacer que Zp = (62.5 - j125) Ω?__
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej13.jpg)
+
 __15. Para cada circuito de la ﬁgura 23-75, determine ZT.__
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej15.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej15.2.jpg)
+
 
 __17.	Un transformador tiene una especiﬁcación de voltaje primario de 7.2 kV, a = 0.2, y una especiﬁcación de corriente en el secundario de 3 A. ¿Cuál es la especiﬁcación de kVA?__
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej17.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej17.2.jpg)
+
 __19.	El transformador de la ﬁgura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de 2400 W con Fp = 1.0, determine:__
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej19.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej19.2.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej19.3.jpg)
 
 __21.	Un ampliﬁcador con un equivalente de Thévenin de 10V y RTh de 25Ω maneja una bocina de 4Ω a través de un transformador con una relación de vueltas de a = 5 ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación devueltas produce 1 W?__
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej21.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej21.2.jpg)
 
 __23.	Para la ﬁgura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20Ω ∠ 50°, Z3 = (12 + j4) Ω y Eg = 120 V ∠0°. Encuentre cada corriente de carga y la corriente del generador.__
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej23.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej23.2.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej23.3.jpg)
 
 __25.	Para la ﬁgura 23-77, Eg = 1220 V ∠0°.__
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej25.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej25.2.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej25.3.jpg)
 
 __27.	Un transformador que entrega Psal = 48 kW tiene un pérdida en el núcleo de 280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eﬁciencia a esta carga?__
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej27.jpg)
 
 __29.	Para la ﬁgura 23-78,__
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej29.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej29.2.jpg)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/EJ29.3.jpg)
+
 __31.	Para un conjunto de bobinas acopladas, L1 = 2H, M = 0.8H y el coeﬁciente de acoplamiento es de 0.6. Determine L2.__
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/Ej31.jpg)
 
 __35. Para la figura 23-80, determine LT.__
 
