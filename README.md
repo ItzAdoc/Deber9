@@ -19,6 +19,8 @@ __Objetivos Específicos__
 
 ![](https://github.com/ItzAdoc/ImaD9/blob/main/MT23.jpeg)
 
+![](https://github.com/ItzAdoc/ImaD9/blob/main/mt2.jpg)
+
 3. Resolución de los ejercicios
 
 * Resolver los ejercicios del capítulo 23 y 24 del libro Análisis de Circuitos de Allan H. Robbins.
