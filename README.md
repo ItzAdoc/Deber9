@@ -209,6 +209,137 @@ __23. Para la figura 24-49, Van=120 V∠0°. Dibuje el equivalente de una sola f
 
 ![](https://github.com/ItzAdoc/ImaD9/blob/main/24.23.PNG)
 
+__25. Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0,15Ω + 0,25Ω y EAN = 120 v ∟0. Convierta la carga Δ en Y y use el equivalente de una fase para encontrar las corrientes de línea.__
+
+
+
+
+
+__27. Para el circuito de la figura 24-49, suponga que Zlinea de 0,15Ω + 0,25Ω y Vab=600v ∟30°. Determinar EAB.__
+
+
+
+
+
+
+__29. Los mismo datos que el problema 28 excepto que el voltaje de ase en la carga Δ es V_ab=480 v∟〖30〗^°. Encuentre el voltaje de E_AB, magnitud y ángulo.__
+
+
+
+
+
+
+
+__31. Para la figura 24-21(a),  Z_y=15Ω+j20Ω , Z_Δ=4Ω-j12Ω, Z_Linea=0,1Ω-j0,1Ω e I_ab=40A∟ 〖73,13〗^°. Encuentre el voltaje de ase Y V_an, magnitud y ángulo.__
+
+
+
+
+
+__33. Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN = 120 V.__
+
+
+
+
+
+__35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL = 207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.__
+
+
+
+
+
+__37. Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36.__
+
+
+
+
+
+
+
+__39. Para la figura 24-53, si V_ab=600 v, determine la potencia total, la potencia relativa total, la potencia aparente real y el factor de potencia.__
+
+
+
+
+
+
+
+
+__41. Para la figura 24-19, si V_ab=480 v, determine la potencia total, la potencia relativa total, la potencia aparente real y el factor de potencia.__
+
+
+
+
+
+
+
+__43. V_ab=280 v, para una carga balanceada Y, P_T=1200w y Q_T=750 VAR/(ind). Seleccione V_an como referencia y determina I_a.__
+
+
+
+
+
+
+
+__45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene un valor de C=120 μf. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.__
+
+
+
+
+
+
+
+__47. Para la figura 24-47, el voltaje de ase del generador es de 120 volts.__
+
+
+
+
+
+
+
+
+
+
+__49. Para el circuito de la figura 24-56. Vab=280 v∟30°.__
+
+
+
+
+
+
+
+
+
+__51. Considere el circuito de la figura 24-56.__
+
+
+
+
+
+
+
+
+
+__53. Para la figura 24-58. R_ab=60Ω, Z_bc=80Ω+60Ω. Calcule:__
+
+
+
+
+
+
+
+__55. Para la figura 24-59. Calcule lo siguiente:__
+
+
+
+
+
+
+
+
+
+__57. A partir del problema 56. Ia= 1,94 A∟-0,737°, Ib= 4 A∟-117,7° e Ic= 3,57 A∟91,4°. Calcule lo siguiente:__
+
 
 
 
