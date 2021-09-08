@@ -46,10 +46,6 @@ __CÁPITULO 24__
 
 __1.	Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e IC sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12Ω a 15 Ω ∠30° y para EAA= 120 V∠0°, haga lo siguiente:__
 
-*a. Calcule las corrientes IA, IB e IC.* 
-
-*b. Sume las corrientes. ¿Se cumple IA+IB+IC=0?*
-
 ![](https://github.com/ItzAdoc/ImaD9/blob/main/24.1.PNG)
 
 ![](https://github.com/ItzAdoc/ImaD9/blob/main/24.1a.PNG)
