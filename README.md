@@ -4,22 +4,20 @@
 
  __Objetivos Generales__
 
-* 
+* Concecer todo lo relacionado con los Transformadores y circuitos acoplados
 
-* 
+* Analizar Sistemas de tres fases.
 
 __Objetivos Específicos__
 
 * Comprender cuando aumenta o disminuye el voltaje en los transformadores.
 * Realizar cálculos de voltaje, corriente, resistencia, inductancia en Circuitos con acoplamientos
-* 
+* Resolver Circuitos polifasicos.
 
 
 2. Marco Teórico
 
 ![](https://github.com/ItzAdoc/ImaD9/blob/main/MT23.jpeg)
-
-![](https://github.com/ItzAdoc/ImaD9/blob/main/mt2.jpg)
 
 3. Resolución de los ejercicios
 
@@ -226,6 +224,8 @@ __23. Para la figura 24-49, Van=120 V∠0°. Dibuje el equivalente de una sola f
 * Al momento de realizar cálculos en circuitos con acoplamientos se tiene en cuenta el tipo de acoplamiento, ya que dependiendo de esto se usar unas otras fórmulas, además se debe tener en cuenta el flujo de la corriente y el voltaje, ya que es crucial al momento de calcular los valores.
 
 * Gracias a los transformadores se ha podido resolver una gran cantidad de problemas eléctricos a lo largo de la historia, y de no ser por estos, actualmente dichos problemas seguirían siendo imposibles de resolver.
+
+* Los circuitos polifásicos son aquellos que poseen más de 1 línea de alimentación, pueden estar conectados en estrella o delta, además estos circuitos tienen valores de voltaje y corriente fase, el cual se da cuando se toma una línea y tierra, por otra parte tienen valores línea a línea, los cuales se dan cuando se toman dos líneas de alimentación.
 
 6. Bibliografía
 
